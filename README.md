@@ -280,4 +280,4 @@ Licenses for third-party libraries used in this project are included in the `bui
 
 ---
 
-© 2026 Farrah Fattah. All rights reserved.
+© 2025 Farrah Fattah. All rights reserved.
