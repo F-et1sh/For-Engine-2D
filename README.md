@@ -275,11 +275,9 @@ void OnTriggerEnter(Entity other) override {
 
 ## Licenses
 
-This project is **not open-source**.  
-For detailed information about usage restrictions, see [`LICENSE.txt`](./LICENSE.txt).
-
+This project is under MIT License.
 Licenses for third-party libraries used in this project are included in the `build` directory next to the executable ( `.exe` ).
 
 ---
 
-© 2025 Farrakh Fattakhov. All rights reserved.
+© 2026 Farrah Fattah. All rights reserved.
