@@ -275,7 +275,7 @@ void OnTriggerEnter(Entity other) override {
 
 ## Licenses
 
-This project is under MIT License.
+This project is under MIT License.\
 Licenses for third-party libraries used in this project are included in the `build` directory next to the executable ( `.exe` ).
 
 ---
